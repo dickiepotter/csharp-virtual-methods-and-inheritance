@@ -367,3 +367,7 @@ in Visual Studio 2008. The concepts — `virtual`, `override`, `abstract`, and t
 keyword — are unchanged in modern C#, which is why the original lesson code compiles and
 runs as-is on .NET 8. Newer language features (such as top-level statements or
 file-scoped namespaces) are intentionally avoided here so the focus stays on inheritance.
+
+## Licence and disclaimer
+
+This is a personal project by Richard Potter, shared in the hope it's useful. It's free to use under the MIT licence (see [LICENSE](LICENSE)). It's provided as is: I make no promises that it works or suits your purpose, and I take no responsibility for anything that happens from using it. It isn't a product of, or supported by, any company I work for.
